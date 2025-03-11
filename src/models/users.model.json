@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "first-name": "Pablo",
+    "last-name": "Lamberti",
+    "birthdate": "1987-04-03",
+    "has-insurance": false,
+    "favourite-movies": [
+      {
+        "title": "The Lord of the Rings",
+        "genre": "fantasy"
+      },
+      {
+        "title": "Pulp Fiction",
+        "genre": "action"
+      }
+    ]
+  }
+]
