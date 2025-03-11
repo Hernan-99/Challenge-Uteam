@@ -16,7 +16,6 @@ La prueba tecnica consisitia en desarrollar una REST API para gestionar consulta
 3. [Configuración](#configuración)
 4. [Uso](#uso)
 5. [Rutas API](#rutas-api)
-6. [Ejemplos de Peticiones](#ejemplos-de-peticiones)
 
 ### Instalacion
 
