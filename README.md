@@ -21,16 +21,16 @@ La prueba tecnica consisitia en desarrollar una REST API para gestionar consulta
 
 Pasos a seguir:
 
-1. Clonar el repo: http...
+1. Clonar el repo: 
 
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
+git clone https://github.com/Hernan-99/Challenge-Uteam.git
 ```
 
 2. Posicionarse en el directorio del proyecto:
 
 ```bash
-cd nombre-app
+cd Challenge-Uteam
 ```
 
 3. Instalar dependencias
